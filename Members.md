@@ -9,6 +9,6 @@ Welcome to BVP MOSC
 
 #### Piyush Agrawal
 - [poush](https://github.com/poush)
-- IT E (10251203115)
+- IT E
 - 2015-19
 ---
