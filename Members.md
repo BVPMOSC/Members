@@ -17,3 +17,7 @@ Welcome to BVP MOSC
 - IT M
 - 2014-18
 ---
+#### Aniket Sharma
+- [aniket965](https://github.com/aniket965)
+- cse e
+- 2016-20
