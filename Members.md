@@ -11,3 +11,9 @@ Welcome to BVP MOSC
 - IT E
 - 2015-19
 ---
+
+#### Arshad Khan
+- [arshdkhn1](https://github.com/arshdkhn1)
+- IT M
+- 2014-18
+---
