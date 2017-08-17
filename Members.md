@@ -17,3 +17,7 @@ Welcome to BVP MOSC
 - [poush](https://github.com/poush)
 - IT E (2015-19)
 ---
+### Ashish Choudhary
+- [ashish411](https://github.com/ashish411)
+- IT E (2015-19)
+---
