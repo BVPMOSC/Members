@@ -1,6 +1,10 @@
 Welcome to BVP MOSC
 ===================
 
+#### Aarush Ahuja
+- [arush15june](https://github.com/arush15june)
+- IT E (2017-21)
+---
 #### Aman Jain
 - [jainaman224](https://github.com/jainaman224)
 - CSE M (2014-18)
