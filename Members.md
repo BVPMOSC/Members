@@ -13,6 +13,10 @@ Welcome to BVP MOSC
 - [arshdkhn1](https://github.com/arshdkhn1)
 - IT M (2014-18)
 ---
+#### Ashutosh Singhal
+- [macinashutosh](https://github.com/macinashutosh)
+- ECE E (2015-19)
+---
 #### Piyush Agrawal
 - [poush](https://github.com/poush)
 - IT E (2015-19)
