@@ -28,4 +28,4 @@ Commit message should be in the form:
 and please sign off your commit using -s flag. Like
 > git commit -m '[Add/Update/Remove] - [Full Name]' -s
 
-That's it :smile: , Welcome to BVP-MOSC :tada:
+That's it :smile: , Welcome to BVP-MOSC :smile: :tada:

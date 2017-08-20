@@ -25,6 +25,10 @@ Welcome to BVP MOSC
 - [poush](https://github.com/poush)
 - IT E (2015-19)
 ---
+#### Vaibhav Chellani
+- []()
+- 
+---
 #### Vidit Chitkara
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
