@@ -37,3 +37,7 @@ Welcome to BVP MOSC
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
 ---
+#### Kashish Sehgal
+- [kashishsehgal73](https://github.com/kashishsehgal73)
+- CSE M (2016-20)
+
