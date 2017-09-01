@@ -37,3 +37,7 @@ Welcome to BVP MOSC
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
 ---
+#### Parul Aggarwal
+- [parulagg27](https://github.com/parulagg27)
+- IT E (2016-20)
+---
