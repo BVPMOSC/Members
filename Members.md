@@ -25,6 +25,10 @@ Welcome to BVP MOSC
 - [macinashutosh](https://github.com/macinashutosh)
 - ECE E (2015-19)
 ---
+#### Kashish Sehgal
+- [kashishsehgal73](https://github.com/kashishsehgal73)
+- CSE M (2016-20)
+---
 #### Parul Aggarwal
 - [parulagg27](https://github.com/parulagg27)
 - IT E (2016-20)
@@ -41,4 +45,5 @@ Welcome to BVP MOSC
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
 ---
+
 
