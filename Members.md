@@ -33,6 +33,10 @@ Welcome to BVP MOSC
 - [poush](https://github.com/poush)
 - IT E (2015-19)
 ---
+#### Rajat Garg
+- [RajatGarg97](https://github.com/RajatGarg97)
+- CSE M (2016-20)
+---
 #### Vaibhav Chellani
 - []()
 - 
@@ -41,4 +45,3 @@ Welcome to BVP MOSC
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
 ---
-
