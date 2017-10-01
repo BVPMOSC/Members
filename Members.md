@@ -45,3 +45,7 @@ Welcome to BVP MOSC
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
 ---
+#### Jaspreet Singh
+- [iamjaspreetsingh](https://github.com/iamjaspreetsingh)
+- ECE M (2016-20)
+---
