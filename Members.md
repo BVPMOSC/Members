@@ -41,6 +41,10 @@ Welcome to BVP MOSC
 - [RajatGarg97](https://github.com/RajatGarg97)
 - CSE M (2016-20)
 ---
+#### Taniya Gupta
+- [EXORCODE1](https://github.com/EXORCODE1)
+- ECE 2 M (2016-2020)
+---
 #### Vaibhav Chellani
 - []()
 - 
