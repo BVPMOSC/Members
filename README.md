@@ -9,7 +9,7 @@ Guidelines
 ==========
 
 This is the list of members of BVPMOSC.
-Feel free to add youself to the list (sorted alphabetically).
+Feel free to add youself to the list (**sorted alphabetically**).
 
 ## Template
 

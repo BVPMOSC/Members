@@ -49,6 +49,10 @@ Welcome to BVP MOSC
 - [EXORCODE1](https://github.com/EXORCODE1)
 - ECE 2 M (2016-2020)
 ---
+#### Ujjwal Upadhyay
+- [Ujjwal-9](https://GitHub.com/Ujjwal-9)
+- CSE E (2016-20)
+---
 #### Vaibhav Chellani
 - []()
 - 
