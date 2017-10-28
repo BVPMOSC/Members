@@ -25,6 +25,10 @@ Welcome to BVP MOSC
 - [macinashutosh](https://github.com/macinashutosh)
 - ECE E (2015-19)
 ---
+#### Harshul Sharma
+- [harshulsharma](https://github.com/HarshulSharma000)
+- CSE E (2016-20)
+---
 #### Jaspreet Singh
 - [iamjaspreetsingh](https://github.com/iamjaspreetsingh)
 - ECE M (2016-20)
