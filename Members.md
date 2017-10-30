@@ -65,6 +65,10 @@ Welcome to BVP MOSC
 - []()
 - 
 ---
+#### Vansh Oberoi
+- [vanshoberoi](https://github.com/vanshoberoi)
+- CSE E (2016-2020)
+---
 #### Vidit Chitkara
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
