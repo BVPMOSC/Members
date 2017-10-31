@@ -37,6 +37,10 @@ Welcome to BVP MOSC
 - [iamjaspreetsingh](https://github.com/iamjaspreetsingh)
 - ECE M (2016-20)
 ---
+#### Kashish Sehgal
+- [kashishshegal73](https://github.com/kashishshegal73)
+- CSE M (2016-20)
+---
 #### Parul Aggarwal
 - [parulagg27](https://github.com/parulagg27)
 - IT E (2016-20)
