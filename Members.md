@@ -54,7 +54,7 @@ Welcome to BVP MOSC
 - ECE 2 M(2016-20)
 ---
 #### Rachit Jain
-- [jainrachit](https://github.com/jainrachit)
+- [jainrachit2011](https://github.com/jainrachit2011)
 - CSE E (2016-20)
 ---
 #### Rajat Garg
@@ -68,6 +68,10 @@ Welcome to BVP MOSC
 #### Taniya Gupta
 - [EXORCODE1](https://github.com/EXORCODE1)
 - ECE 2 M (2016-2020)
+---
+#### Tushar Chugh
+- [TusharChugh20](https://github.com/TusharChugh20)
+- CSE E (2016-20)
 ---
 #### Ujjwal Upadhyay
 - [Ujjwal-9](https://GitHub.com/Ujjwal-9)
