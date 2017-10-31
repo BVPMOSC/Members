@@ -54,7 +54,7 @@ Welcome to BVP MOSC
 - ECE 2 M(2016-20)
 ---
 #### Rachit Jain
-- [jainrachit2011](https://github.com/jainrachit2011)
+- [jainrachit](https://github.com/jainrachit)
 - CSE E (2016-20)
 ---
 #### Rajat Garg
