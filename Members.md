@@ -57,6 +57,10 @@ Welcome to BVP MOSC
 - [RajatGarg97](https://github.com/RajatGarg97)
 - CSE M (2016-20)
 ---
+#### Samarth Joshi
+- [flirtguru](https://github.com/flirtguru)
+- CSE E (2016-2020)
+---
 #### Taniya Gupta
 - [EXORCODE1](https://github.com/EXORCODE1)
 - ECE 2 M (2016-2020)
