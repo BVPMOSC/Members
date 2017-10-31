@@ -74,9 +74,9 @@ Welcome to BVP MOSC
 - ECE 2 M (2016-2020)
 ---
 #### Tushar Chugh		
- - [TusharChugh20](https://github.com/TusharChugh20)		
- - CSE E (2016-20)		
- ---
+- [TusharChugh20](https://github.com/TusharChugh20)		
+- CSE E (2016-20)		
+---
 #### Ujjwal Upadhyay
 - [Ujjwal-9](https://GitHub.com/Ujjwal-9)
 - CSE E (2016-20)
