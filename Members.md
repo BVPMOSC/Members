@@ -65,13 +65,17 @@ Welcome to BVP MOSC
 - [flirtguru](https://github.com/flirtguru)
 - CSE E (2016-2020)
 ---
+#### Shekhar Bhardwaj
+- [sbh7435](https://github.com/sbh7435)
+- CSE E (2016-2020)
+---
 #### Taniya Gupta
 - [EXORCODE1](https://github.com/EXORCODE1)
 - ECE 2 M (2016-2020)
 ---
-#### Tushar Chugh
-- [TusharChugh20](https://github.com/TusharChugh20)
-- CSE E (2016-20)
+#### Tushar Chugh		
+- [TusharChugh20](https://github.com/TusharChugh20)		
+- CSE E (2016-20)		
 ---
 #### Ujjwal Upadhyay
 - [Ujjwal-9](https://GitHub.com/Ujjwal-9)
