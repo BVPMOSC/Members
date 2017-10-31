@@ -89,3 +89,10 @@ Welcome to BVP MOSC
 - [Vipassna](https://github.com/Vipassna)
 - CSE(E) (2016-20)
 ---
+
+#### Shekhar Bhardwaj
+- [sbh7435](https://github.com/sbh7435)
+- CSE E (2016-20)
+---
+
+
