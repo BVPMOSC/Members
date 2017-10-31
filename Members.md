@@ -69,3 +69,7 @@ Welcome to BVP MOSC
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
 ---
+#### Vipassna Gautam
+- [Vipassna](https://github.com/Vipassna)
+- CSE(E) (2016-20)
+---
