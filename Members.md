@@ -89,6 +89,10 @@ Welcome to BVP MOSC
 - [vanshoberoi](https://github.com/vanshoberoi)
 - CSE E (2016-2020)
 ---
+#### Vibhor Singh
+- [visin](https://github.com/visin)
+- CSE E (2015-19)
+---
 #### Vidit Chitkara
 - [viditchitkara](https://github.com/viditchitkara)
 - CSE E (2015-19)
