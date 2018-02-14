@@ -70,7 +70,7 @@ Welcome to BVP MOSC
 - CSE E (2016-2020)
 ---
 #### Sneha Raina
--[SnehaR26](https://github.com/SnehaR26)
+- [SnehaR26](https://github.com/SnehaR26)
 - IT M (2016-2020)
 ---
 #### Taniya Gupta
