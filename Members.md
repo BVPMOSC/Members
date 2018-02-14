@@ -69,6 +69,10 @@ Welcome to BVP MOSC
 - [sbh7435](https://github.com/sbh7435)
 - CSE E (2016-2020)
 ---
+#### Sneha Raina
+-[SnehaR26](https://github.com/SnehaR26)
+- IT M (2016-2020)
+---
 #### Taniya Gupta
 - [EXORCODE1](https://github.com/EXORCODE1)
 - ECE 2 M (2016-2020)
