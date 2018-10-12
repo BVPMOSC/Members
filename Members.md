@@ -29,6 +29,10 @@ Welcome to BVP MOSC
 - [Govindchaudhary](https://GitHub.com/Govindchaudhary)
 - CSE E (2016 - 2020)
 ---
+#### Harman Singh jolly
+- [coderjolly](https://github.com/CoderJolly)
+- IT E (2016-20)
+---
 #### Harshul Sharma
 - [harshulsharma](https://github.com/HarshulSharma000)
 - CSE E (2016-20)
