@@ -78,7 +78,7 @@ Welcome to BVP MOSC
 - IT M (2016-2020)
 ---
 #### Taniya Gupta
-- [EXORCODE1](https://github.com/EXORCODE1)
+- [thetaniyagupta](https://github.com/thetaniyagupta)
 - ECE 2 M (2016-2020)
 ---
 #### Tushar Chugh		
