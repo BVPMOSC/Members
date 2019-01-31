@@ -61,6 +61,10 @@ Welcome to BVP MOSC
 - [jainrachit](https://github.com/jainrachit)
 - CSE E (2016-20)
 ---
+#### Rahul Ranjan
+- [imrrahul](https://github.com/imrrahul)
+- CSE M (2016-20)
+---
 #### Rajat Garg
 - [RajatGarg97](https://github.com/RajatGarg97)
 - CSE M (2016-20)
