@@ -33,6 +33,10 @@ Welcome to BVP MOSC
 - [coderjolly](https://github.com/CoderJolly)
 - IT E (2016-20)
 ---
+#### Harsh Kumar
+- [HarshCic](https://github.com/harshcic)
+- IT M (2016-20)
+---
 #### Harshul Sharma
 - [harshulsharma](https://github.com/HarshulSharma000)
 - CSE E (2016-20)
