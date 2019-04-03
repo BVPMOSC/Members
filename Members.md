@@ -49,6 +49,10 @@ Welcome to BVP MOSC
 - [kashishshegal73](https://github.com/kashishshegal73)
 - CSE M (2016-20)
 ---
+#### Manbir Singh Marwah
+- [marwahmanbir](https://github.com/marwahmanbir)
+- IT E (2016-20)
+---
 #### Parul Aggarwal
 - [parulagg27](https://github.com/parulagg27)
 - IT E (2016-20)
