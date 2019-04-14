@@ -5,6 +5,10 @@ Welcome to BVP MOSC
 - [arush15june](https://github.com/arush15june)
 - IT E (2017-21)
 ---
+#### Akanshu Raj
+- [akannshu](https://github.com/akannshu)
+- IT E (2017-21)
+---
 #### Aman Jain
 - [jainaman224](https://github.com/jainaman224)
 - CSE M (2014-18)
@@ -94,8 +98,8 @@ Welcome to BVP MOSC
 - ECE 2 M (2016-2020)
 ---
 #### Tushar Chugh		
-- [TusharChugh20](https://github.com/TusharChugh20)		
-- CSE E (2016-20)		
+- [TusharChugh20](https://github.com/TusharChugh20)
+- CSE E (2016-20)	
 ---
 #### Ujjwal Upadhyay
 - [Ujjwal-9](https://GitHub.com/Ujjwal-9)
