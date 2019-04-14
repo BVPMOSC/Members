@@ -5,7 +5,7 @@ Welcome to BVP MOSC
 - [arush15june](https://github.com/arush15june)
 - IT E (2017-21)
 ---
-#### AKanshu Raj
+#### Akanshu Raj
 - [akannshu](https://github.com/akannshu)
 - IT E (2017-21)
 ---
